@@ -11,9 +11,9 @@
     "name": "RocketChat",
     "url": "https://rocket.etna.io",
     "slug": "rocket-chat",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 686
+    "status": "down",
+    "uptime": "99.88",
+    "time": 572
   },
   {
     "name": "Gitlab",
