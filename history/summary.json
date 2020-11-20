@@ -5,7 +5,7 @@
     "slug": "intranet",
     "status": "up",
     "uptime": "100.00",
-    "time": 712
+    "time": 735
   },
   {
     "name": "RocketChat",
@@ -13,7 +13,7 @@
     "slug": "rocket-chat",
     "status": "up",
     "uptime": "100.00",
-    "time": 909
+    "time": 876
   },
   {
     "name": "Gitlab",
@@ -21,6 +21,6 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "100.00",
-    "time": 580
+    "time": 594
   }
 ]
