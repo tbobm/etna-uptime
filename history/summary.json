@@ -1,42 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Intranet",
+    "url": "https://intra.etna-alternance.net",
+    "slug": "intranet",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 691
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "RocketChat",
+    "url": "https://rocket.etna.io",
+    "slug": "rocket-chat",
     "status": "up",
     "uptime": "100.00",
-    "time": 133
+    "time": 939
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Gitlab",
+    "url": "https://rendu-git.etna-alternance.net/",
+    "slug": "gitlab",
     "status": "up",
     "uptime": "100.00",
-    "time": 341
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "99.28",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 49
+    "time": 597
   }
 ]
