@@ -1,6 +1,7 @@
+---
 # Change these first
-owner: tbobm # Your GitHub username
-repo: etna-uptime # Your Github repository name
+owner: tbobm        # Your GitHub username
+repo: etna-uptime   # Your Github repository name
 
 # Add your sites here
 sites:
