@@ -4,23 +4,23 @@
     "url": "https://intra.etna-alternance.net",
     "slug": "intranet",
     "status": "up",
-    "uptime": "100.00",
-    "time": 789
+    "uptime": "100.00%",
+    "time": 819
   },
   {
     "name": "RocketChat",
     "url": "https://rocket.etna.io",
     "slug": "rocket-chat",
     "status": "up",
-    "uptime": "100.00",
-    "time": 663
+    "uptime": "98.09%",
+    "time": 706
   },
   {
     "name": "Gitlab",
     "url": "https://rendu-git.etna-alternance.net/",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "100.00",
-    "time": 649
+    "uptime": "100.00%",
+    "time": 662
   }
 ]
