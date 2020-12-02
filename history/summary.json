@@ -5,15 +5,15 @@
     "slug": "intranet",
     "status": "up",
     "uptime": "100.00%",
-    "time": 862
+    "time": 873
   },
   {
     "name": "RocketChat",
     "url": "https://rocket.etna.io",
     "slug": "rocket-chat",
     "status": "up",
-    "uptime": "99.55%",
-    "time": 826
+    "uptime": "99.59%",
+    "time": 840
   },
   {
     "name": "Gitlab",
