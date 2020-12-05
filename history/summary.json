@@ -9,27 +9,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 737,
-    "timeWeek": 891,
-    "timeMonth": 860,
-    "timeYear": 860
+    "time": 847,
+    "timeDay": 634,
+    "timeWeek": 818,
+    "timeMonth": 847,
+    "timeYear": 847
   },
   {
     "name": "RocketChat",
     "url": "https://rocket.etna.io",
     "slug": "rocket-chat",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 964,
-    "timeDay": 875,
-    "timeWeek": 931,
-    "timeMonth": 964,
-    "timeYear": 964
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 956,
+    "timeDay": 814,
+    "timeWeek": 908,
+    "timeMonth": 956,
+    "timeYear": 956
   },
   {
     "name": "Gitlab",
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 662,
-    "timeWeek": 676,
-    "timeMonth": 672,
-    "timeYear": 672
+    "time": 671,
+    "timeDay": 651,
+    "timeWeek": 665,
+    "timeMonth": 671,
+    "timeYear": 671
   }
 ]
