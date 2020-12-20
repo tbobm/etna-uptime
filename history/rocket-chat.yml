@@ -1,7 +1,7 @@
 url: https://rocket.etna.io  
-status: up
-code: 200
-responseTime: 777
-lastUpdated: 2020-12-19T23:18:14.741Z
+status: down
+code: 503
+responseTime: 484
+lastUpdated: 2020-12-20T08:49:44.528Z
 startTime: Fri Nov 20 2020 13:29:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
