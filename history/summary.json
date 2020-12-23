@@ -4,29 +4,31 @@
     "url": "https://intra.etna-alternance.net",
     "icon": "https://favicons.githubusercontent.com/intra.etna-alternance.net",
     "slug": "intranet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 803,
-    "timeDay": 718,
-    "timeWeek": 842,
-    "timeMonth": 800,
-    "timeYear": 803,
-    "dailyMinutesDown": {}
+    "time": 863,
+    "timeDay": 1864,
+    "timeWeek": 1113,
+    "timeMonth": 871,
+    "timeYear": 863,
+    "dailyMinutesDown": {
+      "2020-12-23": 1
+    }
   },
   {
     "name": "RocketChat",
     "url": "https://rocket.etna.io",
     "icon": "https://favicons.githubusercontent.com/rocket.etna.io",
     "slug": "rocket-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.45%",
     "time": 1554,
     "timeDay": 849,
@@ -34,6 +36,7 @@
     "timeMonth": 1699,
     "timeYear": 1554,
     "dailyMinutesDown": {
+      "2020-12-23": 1,
       "2020-12-11": 126,
       "2020-12-08": 24,
       "2020-12-07": 39,
@@ -45,9 +48,9 @@
     "url": "https://rendu-git.etna-alternance.net/",
     "icon": "https://favicons.githubusercontent.com/rendu-git.etna-alternance.net",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,6 +59,8 @@
     "timeWeek": 614,
     "timeMonth": 619,
     "timeYear": 627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-23": 0
+    }
   }
 ]
