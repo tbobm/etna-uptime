@@ -8,18 +8,10 @@ jobs:
     name: Notify service state
     runs-on: ubuntu-18.04
     steps:
-      - name: Service down
+      - name: Service state change
         uses: rjstone/discord-webhook-notify@v1
-        if: contains(github.event.issue.label.*.name, 'status') && github.event.issue.type == "opened"
+        if: contains(github.event.issue.label.*.name, 'status')
         with:
           severity: info
-          details: New service down
-          webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
-
-      - name: Service back up
-        uses: rjstone/discord-webhook-notify@v1
-        if: contains(github.event.issue.label.*.name, 'status') && github.event.issue.type == "closed"
-        with:
-          severity: info
-          details: New service down
+          details: Service state changed
           webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
