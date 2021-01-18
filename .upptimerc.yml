@@ -23,7 +23,7 @@ status-website:
   introMessage: This repository is not to be associated in any official way to ETNA.
   navbar:
     - title: Status
-      href: /
+      href: /etna-uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Intranet
