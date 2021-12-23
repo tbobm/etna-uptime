@@ -11,9 +11,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.66%",
     "time": 953,
-    "timeDay": 990,
-    "timeWeek": 768,
-    "timeMonth": 800,
+    "timeDay": 725,
+    "timeWeek": 773,
+    "timeMonth": 796,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2021-11-29": 86,
@@ -32,8 +32,7 @@
       "2021-01-28": 70,
       "2021-01-26": 113,
       "2021-01-19": 28,
-      "2021-01-12": 105,
-      "2020-12-23": 57
+      "2021-01-12": 105
     }
   },
   {
@@ -42,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/rocket.etna.io",
     "slug": "rocket-chat",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.28%",
-    "time": 1189,
-    "timeDay": 1032,
-    "timeWeek": 812,
-    "timeMonth": 860,
-    "timeYear": 1148,
+    "time": 1188,
+    "timeDay": 709,
+    "timeWeek": 813,
+    "timeMonth": 851,
+    "timeYear": 1147,
     "dailyMinutesDown": {
       "2021-11-30": 286,
       "2021-11-29": 571,
@@ -80,8 +79,7 @@
       "2021-01-25": 132,
       "2021-01-19": 27,
       "2021-01-12": 98,
-      "2021-01-11": 79,
-      "2020-12-23": 105
+      "2021-01-11": 79
     }
   },
   {
@@ -90,18 +88,19 @@
     "icon": "https://favicons.githubusercontent.com/rendu-git.etna-alternance.net",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "87.18%",
+    "uptime": "86.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.07%",
+    "uptimeYear": "85.80%",
     "time": 634,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2021-12-22": 52,
+      "2021-12-23": 50,
+      "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
       "2021-12-19": 1440,
@@ -167,8 +166,7 @@
       "2021-01-19": 27,
       "2021-01-18": 48,
       "2021-01-15": 191,
-      "2021-01-12": 51,
-      "2020-12-23": 247
+      "2021-01-12": 51
     }
   }
 ]
