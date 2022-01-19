@@ -11,10 +11,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.68%",
     "time": 942,
-    "timeDay": 964,
-    "timeWeek": 785,
-    "timeMonth": 786,
-    "timeYear": 945,
+    "timeDay": 724,
+    "timeWeek": 794,
+    "timeMonth": 787,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2022-01-10": 41,
       "2022-01-03": 19,
@@ -32,8 +32,7 @@
       "2021-02-04": 50,
       "2021-01-29": 56,
       "2021-01-28": 70,
-      "2021-01-26": 113,
-      "2021-01-19": 28
+      "2021-01-26": 113
     }
   },
   {
@@ -47,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.32%",
-    "time": 1168,
-    "timeDay": 1024,
-    "timeWeek": 836,
-    "timeMonth": 834,
-    "timeYear": 1079,
+    "time": 1167,
+    "timeDay": 766,
+    "timeWeek": 841,
+    "timeMonth": 835,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2022-01-10": 40,
       "2022-01-03": 19,
@@ -79,8 +78,7 @@
       "2021-01-29": 56,
       "2021-01-28": 68,
       "2021-01-26": 112,
-      "2021-01-25": 132,
-      "2021-01-19": 27
+      "2021-01-25": 132
     }
   },
   {
@@ -89,18 +87,19 @@
     "icon": "https://favicons.githubusercontent.com/rendu-git.etna-alternance.net",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "81.62%",
+    "uptime": "81.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.77%",
+    "uptimeYear": "78.50%",
     "time": 634,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 627,
+    "timeYear": 622,
     "dailyMinutesDown": {
-      "2022-01-18": 54,
+      "2022-01-19": 47,
+      "2022-01-18": 1440,
       "2022-01-17": 1440,
       "2022-01-16": 1440,
       "2022-01-15": 1440,
@@ -189,8 +188,7 @@
       "2021-02-04": 49,
       "2021-01-29": 55,
       "2021-01-28": 68,
-      "2021-01-26": 109,
-      "2021-01-19": 27
+      "2021-01-26": 109
     }
   }
 ]
