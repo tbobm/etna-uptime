@@ -8,13 +8,13 @@
     "uptime": "99.70%",
     "uptimeDay": "93.69%",
     "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.68%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.71%",
-    "time": 934,
-    "timeDay": 687,
-    "timeWeek": 716,
-    "timeMonth": 720,
-    "timeYear": 874,
+    "time": 933,
+    "timeDay": 689,
+    "timeWeek": 709,
+    "timeMonth": 721,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2022-02-03": 91,
       "2022-01-10": 41,
@@ -29,8 +29,7 @@
       "2021-02-28": 22,
       "2021-02-23": 118,
       "2021-02-17": 422,
-      "2021-02-15": 358,
-      "2021-02-04": 50
+      "2021-02-15": 358
     }
   },
   {
@@ -39,18 +38,19 @@
     "icon": "https://favicons.githubusercontent.com/rocket.etna.io",
     "slug": "rocket-chat",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "93.65%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.25%",
+    "uptimeDay": "53.37%",
+    "uptimeWeek": "93.34%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "99.28%",
     "time": 1155,
-    "timeDay": 727,
-    "timeWeek": 770,
-    "timeMonth": 773,
+    "timeDay": 0,
+    "timeWeek": 780,
+    "timeMonth": 775,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2022-02-03": 91,
+      "2022-02-04": 49,
+      "2022-02-03": 623,
       "2022-01-10": 40,
       "2022-01-03": 19,
       "2021-11-30": 286,
@@ -70,8 +70,7 @@
       "2021-02-28": 21,
       "2021-02-23": 118,
       "2021-02-17": 421,
-      "2021-02-15": 358,
-      "2021-02-04": 49
+      "2021-02-15": 358
     }
   },
   {
@@ -80,18 +79,19 @@
     "icon": "https://favicons.githubusercontent.com/rendu-git.etna-alternance.net",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "78.54%",
+    "uptime": "78.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.28%",
+    "uptimeYear": "74.17%",
     "time": 634,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2022-02-03": 909,
+      "2022-02-04": 49,
+      "2022-02-03": 1440,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
       "2022-01-31": 1440,
@@ -192,8 +192,7 @@
       "2021-02-28": 21,
       "2021-02-23": 107,
       "2021-02-17": 421,
-      "2021-02-15": 352,
-      "2021-02-04": 49
+      "2021-02-15": 352
     }
   }
 ]
