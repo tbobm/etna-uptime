@@ -1,7 +1,7 @@
 url: https://rendu-git.etna-alternance.net/
-status: up
-code: 200
-responseTime: 510
-lastUpdated: 2022-03-06T23:18:40.031Z
+status: down
+code: 500
+responseTime: 448
+lastUpdated: 2022-03-07T06:32:20.760Z
 startTime: Fri Nov 20 2020 13:29:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
