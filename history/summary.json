@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 845,
-    "timeDay": 693,
-    "timeWeek": 958,
-    "timeMonth": 862,
+    "time": 846,
+    "timeDay": 996,
+    "timeWeek": 987,
+    "timeMonth": 870,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2022-04-04": 41,
@@ -28,8 +28,7 @@
       "2021-08-22": 18,
       "2021-08-04": 127,
       "2021-08-03": 52,
-      "2021-07-01": 41,
-      "2021-05-11": 32
+      "2021-07-01": 41
     }
   },
   {
@@ -38,16 +37,16 @@
     "icon": "https://favicons.githubusercontent.com/rocket.etna.io",
     "slug": "rocket-chat",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.72%",
     "uptimeYear": "98.62%",
-    "time": 1022,
-    "timeDay": 685,
-    "timeWeek": 950,
-    "timeMonth": 848,
-    "timeYear": 876,
+    "time": 1021,
+    "timeDay": 947,
+    "timeWeek": 982,
+    "timeMonth": 856,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2022-04-20": 782,
       "2022-04-19": 1440,
@@ -70,8 +69,7 @@
       "2021-10-07": 208,
       "2021-09-10": 27,
       "2021-08-22": 18,
-      "2021-07-01": 15,
-      "2021-05-11": 31
+      "2021-07-01": 15
     }
   },
   {
@@ -80,16 +78,16 @@
     "icon": "https://favicons.githubusercontent.com/rendu-git.etna-alternance.net",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "81.49%",
+    "uptime": "81.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "73.18%",
     "time": 616,
-    "timeDay": 732,
-    "timeWeek": 856,
-    "timeMonth": 683,
-    "timeYear": 590,
+    "timeDay": 760,
+    "timeWeek": 874,
+    "timeMonth": 692,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2022-03-30": 165,
       "2022-03-22": 150,
@@ -197,8 +195,7 @@
       "2021-11-03": 1440,
       "2021-11-02": 750,
       "2021-09-10": 27,
-      "2021-08-22": 17,
-      "2021-05-11": 31
+      "2021-08-22": 17
     }
   }
 ]
