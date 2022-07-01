@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 836,
-    "timeDay": 758,
-    "timeWeek": 793,
-    "timeMonth": 916,
+    "timeDay": 1033,
+    "timeWeek": 851,
+    "timeMonth": 909,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2022-05-19": 29,
@@ -28,8 +28,7 @@
       "2021-09-10": 28,
       "2021-08-22": 18,
       "2021-08-04": 127,
-      "2021-08-03": 52,
-      "2021-07-01": 41
+      "2021-08-03": 52
     }
   },
   {
@@ -38,15 +37,15 @@
     "icon": "https://favicons.githubusercontent.com/rocket.etna.io",
     "slug": "rocket-chat",
     "status": "up",
-    "uptime": "98.89%",
+    "uptime": "98.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.61%",
     "time": 914,
-    "timeDay": 866,
-    "timeWeek": 829,
-    "timeMonth": 929,
+    "timeDay": 1136,
+    "timeWeek": 891,
+    "timeMonth": 928,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2022-06-23": 19,
@@ -71,8 +70,7 @@
       "2021-10-08": 565,
       "2021-10-07": 208,
       "2021-09-10": 27,
-      "2021-08-22": 18,
-      "2021-07-01": 15
+      "2021-08-22": 18
     }
   },
   {
@@ -81,16 +79,16 @@
     "icon": "https://favicons.githubusercontent.com/rendu-git.etna-alternance.net",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "83.10%",
+    "uptime": "83.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "73.19%",
-    "time": 628,
-    "timeDay": 542,
-    "timeWeek": 664,
-    "timeMonth": 906,
-    "timeYear": 642,
+    "time": 630,
+    "timeDay": 1427,
+    "timeWeek": 765,
+    "timeMonth": 919,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2022-05-19": 28,
       "2022-03-30": 165,
