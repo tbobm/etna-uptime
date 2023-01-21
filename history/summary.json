@@ -11,10 +11,10 @@
     "uptimeMonth": "97.02%",
     "uptimeYear": "99.08%",
     "time": 752,
-    "timeDay": 515,
-    "timeWeek": 522,
-    "timeMonth": 502,
-    "timeYear": 722,
+    "timeDay": 388,
+    "timeWeek": 500,
+    "timeMonth": 501,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2023-01-17": 505,
       "2023-01-16": 518,
@@ -50,9 +50,9 @@
     "uptimeMonth": "97.02%",
     "uptimeYear": "98.71%",
     "time": 930,
-    "timeDay": 961,
-    "timeWeek": 966,
-    "timeMonth": 932,
+    "timeDay": 687,
+    "timeWeek": 922,
+    "timeMonth": 930,
     "timeYear": 926,
     "dailyMinutesDown": {
       "2023-01-17": 505,
@@ -85,17 +85,16 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "87.35%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "89.80%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "94.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "89.86%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "94.73%",
     "time": 729,
-    "timeDay": 742,
-    "timeWeek": 767,
-    "timeMonth": 783,
+    "timeDay": 640,
+    "timeWeek": 740,
+    "timeMonth": 782,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2023-01-20": 6,
       "2023-01-17": 505,
       "2023-01-16": 517,
       "2023-01-03": 54,
@@ -128,8 +127,7 @@
       "2022-01-25": 1440,
       "2022-01-24": 1440,
       "2022-01-23": 1440,
-      "2022-01-22": 1440,
-      "2022-01-21": 1440
+      "2022-01-22": 1440
     }
   }
 ]
