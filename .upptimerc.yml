@@ -7,8 +7,6 @@ repo: etna-uptime   # Your Github repository name
 sites:
   - name: Intranet
     url: https://intra.etna-alternance.net
-  - name: RocketChat
-    url: https://rocket.etna.io
   - name: Gitlab
     url: https://rendu-git.etna-alternance.net/
 
@@ -28,8 +26,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Intranet
       href: https://intra.etna-alternance.net
-    - title: RocketChat
-      href: https://rocket.etna.io
     - title: Gitlab
       href: https://rendu-git.etna-alternance.net/
 
