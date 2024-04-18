@@ -11,9 +11,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.07%",
     "time": 703,
-    "timeDay": 699,
-    "timeWeek": 613,
-    "timeMonth": 621,
+    "timeDay": 654,
+    "timeWeek": 627,
+    "timeMonth": 623,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2024-04-17": 43,
@@ -37,8 +37,7 @@
       "2023-05-17": 37,
       "2023-05-15": 100,
       "2023-05-01": 149,
-      "2023-04-27": 219,
-      "2023-04-19": 114
+      "2023-04-27": 219
     }
   },
   {
@@ -47,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rendu-git.etna-alternance.net.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "91.62%",
+    "uptime": "91.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.20%",
-    "time": 943,
-    "timeDay": 1059,
-    "timeWeek": 853,
-    "timeMonth": 897,
-    "timeYear": 977,
+    "time": 942,
+    "timeDay": 862,
+    "timeWeek": 858,
+    "timeMonth": 900,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2024-03-22": 27,
       "2024-03-03": 20,
@@ -79,8 +78,7 @@
       "2023-05-28": 1172,
       "2023-05-27": 311,
       "2023-05-17": 36,
-      "2023-05-15": 66,
-      "2023-04-19": 80
+      "2023-05-15": 66
     }
   }
 ]
