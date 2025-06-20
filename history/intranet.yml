@@ -1,7 +1,7 @@
 url: https://intra.etna-alternance.net
-status: up
-code: 200
-responseTime: 413
-lastUpdated: 2025-06-19T23:21:49.141Z
+status: down
+code: 503
+responseTime: 395
+lastUpdated: 2025-06-20T10:17:02.672Z
 startTime: 2020-11-20T13:29:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
