@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/intra.etna-alternance.net.ico",
     "slug": "intranet",
     "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "93.48%",
-    "uptimeYear": "98.83%",
+    "uptime": "98.97%",
+    "uptimeDay": "68.57%",
+    "uptimeWeek": "94.87%",
+    "uptimeMonth": "92.44%",
+    "uptimeYear": "98.75%",
     "time": 556,
-    "timeDay": 601,
-    "timeWeek": 538,
-    "timeMonth": 537,
+    "timeDay": 681,
+    "timeWeek": 539,
+    "timeMonth": 540,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2025-06-25": 1,
+      "2025-06-26": 87,
+      "2025-06-25": 365,
       "2025-06-20": 24,
       "2025-06-19": 40,
       "2025-06-02": 412,
@@ -35,8 +36,7 @@
       "2024-12-06": 19,
       "2024-12-01": 345,
       "2024-08-02": 16,
-      "2024-07-11": 60,
-      "2024-06-26": 232
+      "2024-07-11": 60
     }
   },
   {
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rendu-git.etna-alternance.net.ico",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "93.45%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "93.12%",
-    "uptimeYear": "98.66%",
+    "uptime": "93.43%",
+    "uptimeDay": "68.60%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "92.09%",
+    "uptimeYear": "98.57%",
     "time": 775,
-    "timeDay": 639,
-    "timeWeek": 605,
-    "timeMonth": 597,
-    "timeYear": 672,
+    "timeDay": 718,
+    "timeWeek": 609,
+    "timeMonth": 601,
+    "timeYear": 673,
     "dailyMinutesDown": {
-      "2025-06-25": 0,
+      "2025-06-26": 87,
+      "2025-06-25": 365,
       "2025-06-19": 40,
       "2025-06-02": 568,
       "2025-06-01": 1440,
@@ -74,8 +75,7 @@
       "2024-10-16": 216,
       "2024-08-02": 16,
       "2024-07-11": 59,
-      "2024-06-27": 973,
-      "2024-06-26": 313
+      "2024-06-27": 973
     }
   }
 ]
