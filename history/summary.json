@@ -6,14 +6,14 @@
     "slug": "intranet",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "38.94%",
-    "uptimeWeek": "90.64%",
+    "uptimeDay": "71.06%",
+    "uptimeWeek": "91.04%",
     "uptimeMonth": "91.47%",
-    "uptimeYear": "98.67%",
+    "uptimeYear": "98.71%",
     "time": 556,
-    "timeDay": 583,
-    "timeWeek": 535,
-    "timeMonth": 539,
+    "timeDay": 567,
+    "timeWeek": 574,
+    "timeMonth": 544,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2025-06-26": 514,
@@ -46,14 +46,14 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "93.41%",
-    "uptimeDay": "38.98%",
-    "uptimeWeek": "90.89%",
+    "uptimeDay": "71.06%",
+    "uptimeWeek": "91.28%",
     "uptimeMonth": "91.11%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.57%",
     "time": 774,
-    "timeDay": 621,
-    "timeWeek": 601,
-    "timeMonth": 599,
+    "timeDay": 616,
+    "timeWeek": 640,
+    "timeMonth": 605,
     "timeYear": 672,
     "dailyMinutesDown": {
       "2025-06-26": 514,
@@ -74,8 +74,7 @@
       "2024-10-21": 33,
       "2024-10-16": 216,
       "2024-08-02": 16,
-      "2024-07-11": 59,
-      "2024-06-27": 973
+      "2024-07-11": 59
     }
   }
 ]
