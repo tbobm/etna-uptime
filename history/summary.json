@@ -35,17 +35,17 @@
     "url": "https://rendu-git.etna-alternance.net/",
     "icon": "https://icons.duckduckgo.com/ip3/rendu-git.etna-alternance.net.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "94.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 766,
-    "timeDay": 989,
-    "timeWeek": 1224,
-    "timeMonth": 1212,
-    "timeYear": 803,
+    "time": 772,
+    "timeDay": 2238,
+    "timeWeek": 1507,
+    "timeMonth": 1286,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2025-07-15": 194,
       "2025-07-27": 135,
@@ -61,7 +61,8 @@
       "2026-03-31": 69,
       "2026-04-01": 297,
       "2026-04-22": 491,
-      "2026-04-21": 348
+      "2026-04-21": 348,
+      "2026-07-12": 0
     }
   }
 ]
